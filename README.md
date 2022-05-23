@@ -1,2 +1,2 @@
-# Projeto-Instagram
-Projeto da página de login do instagram para treinar HTML e CSS.
+# Project-Instagram
+Project of Instagram login page to practice HTML and CSS.
